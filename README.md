@@ -22,3 +22,7 @@ A lightweight Bash script designed to analyze and monitor essential Linux server
    ```bash
    git clone [https://github.com/sehar-ali-dev/Linux-server-stats.git](https://github.com/sehar-ali-dev/Linux-server-stats.git)
    cd Linux-server-stats
+
+
+   ## 🔗 Project URL
+https://roadmap.sh/projects/server-stats
